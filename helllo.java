@@ -7,5 +7,6 @@ class helllo {
         int b = 15;
         int sum = a + b;
         System.out.println("Sum: " + sum);
+        System.out.print(a * b);
     }
 }
