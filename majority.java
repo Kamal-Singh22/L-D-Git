@@ -25,7 +25,7 @@
 // HashMap approach
 import java.util.HashMap;
 
-class Solution {
+class majority {
 
     public static int majorityHashMap(int[] nums) {
         int n = nums.length;
